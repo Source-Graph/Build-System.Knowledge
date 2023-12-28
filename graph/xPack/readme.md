@@ -1,7 +1,12 @@
 # xPack
 Home:
 - https://xpack.github.io/
-- VS Code.Extension: https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack
+
+# IDE
+## VS Code
+Doc: https://xpack.github.io/vscode/
+
+Extension: https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack
 
 # Relation:
 ## compile_commands.json
